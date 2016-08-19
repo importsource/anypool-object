@@ -28,9 +28,7 @@ public class Test
 /** 
  * 封装线程用于测试对象池 
  *  
- * Email:530025983@qq.com 
- *  
- * @author MONKEY.D.MENG 2011-03-16 
+ *  @author Hezf
  *  
  */  
 class MyThread extends Thread  
