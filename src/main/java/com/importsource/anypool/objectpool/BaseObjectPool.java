@@ -53,10 +53,7 @@ public abstract class BaseObjectPool implements ObjectPool
      * @param factory 
      *            池化对象管理工厂 
      */  
-    public void setFactory(PoolableObjectFactory factory)  
-    {  
-  
-    }  
+    public abstract void setFactory(PoolableObjectFactory factory); 
   
     /** 
      * 返回对象池是否关闭 
